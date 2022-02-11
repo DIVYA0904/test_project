@@ -12,7 +12,7 @@ $row=mysqli_fetch_array($result);
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-  <p>Divya</p>
+  <p>Divya Hemas</p>
 <div class="form-wrapper"> 
     <center><h3>Welcome: <?php echo $row['name']; ?> </h3></center>
     <p>this is testing</p>hello world
